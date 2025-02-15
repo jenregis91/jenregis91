@@ -1,4 +1,4 @@
-![image](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="1000">
 
 I'm a Visual Designer with a passion for expanding my skills in design, data visualization, and a bit of coding. With a background in graphic design, I'm focused on enhancing my development abilities and exploring new technologies. I enjoy learning, creating, and collaborating with others.
 
